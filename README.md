@@ -2,6 +2,9 @@
 
 A comprehensive Hospital Management System designed and implemented using MySQL, HTML, JavaScript, and Flask (Python). This system improves healthcare service delivery by efficiently managing patient records, appointments, and pharmacy operations.
 
+
+
+
 ## Table of Contents
 - [Project Description](#project-description)
 - [Features](#features)
